@@ -1,10 +1,9 @@
+
 window.onload = function(){
     
     let shizi = document.querySelector(".shizituandui");
     let peixun1 = document.querySelector(".shizituandui .peixun1");
     let lis = document.querySelectorAll(".peixun1 li");
-    // let list = document.querySelectorAll(".peixun1 tuzi1");
-    // let lists = document.querySelectorAll(".peixun1 tuxiaozi1");
     let left = document.querySelector(".leftBtn");
     let right = document.querySelector(".rightBtn");
     shizi.onmouseenter = function(){
@@ -12,7 +11,6 @@ window.onload = function(){
     }
 
     let width = parseFloat(getComputedStyle(lis[0],null).width);
-    console.log(width);
     let now=0;
     lis[0].style.left=(0)+"px";
     lis[1].style.left=(width)+"px";
@@ -76,8 +74,8 @@ window.onload = function(){
         
 
         now ++;
-        // if(now == 1){
-        //  now == 0;
-        // }
+
     }
 }
+
+

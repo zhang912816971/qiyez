@@ -87,7 +87,7 @@ body{
         width: 10px;
         height: 70px;
         position:absolute;
-        padding-left: 1700px;
+        padding-left: 95%;
         font-size: 40px;
         color: #606060;
     }
@@ -641,7 +641,7 @@ body{
         border:0.1px solid:#4f4f4f;
         background: #333333;
         height: 30px;
-        width: 48%;
+        width: 30%;
         margin-left: 1%;
     }
     .wenbenkuang2{
@@ -653,7 +653,7 @@ body{
         border:0.1px solid:#4f4f4f;
         background: #333333;
         height: 30px;
-        width: 48%;
+        width: 30%;
         margin-left: 1%;
     }
     .wenbenkuang3{
@@ -661,11 +661,11 @@ body{
         color: #4f4f4f;
         margin-top: 10px;
     }
-    .wenbenkuang3 input{
+    .wenbenkuang3 textarea{
         border:0.1px solid:#4f4f4f;
         background: #333333;
         height: 100px;
-        width: 98%;
+        width: 72%;
         margin-left: 1%;
     }
     .fasong{

@@ -19,7 +19,6 @@ body{
         background-size: 160px 50px;
         width: 160px;
         height: 55px;
-
     }
     .main_ul{
         width: 720px;
@@ -73,7 +72,7 @@ body{
         border-bottom: 2px solid #6bbcce;
     }
     .peixun1{
-        width: 1300px;
+        width: 90%;
         height: 400px;
         margin:0 auto;
         margin-top: 210px;
@@ -162,7 +161,7 @@ body{
         width: 41px;
         height: 69px;
         position: absolute;
-        left: 215px;
+        left: 3.2%;
         top: 0;
         bottom: 0;
         margin: auto 0;
@@ -177,7 +176,7 @@ body{
         width: 41px;
         height: 69px;
         position: absolute;
-        right: 210px;
+        right:3.2%;
         top: 0;
         bottom: 0;
         margin: auto 0;
